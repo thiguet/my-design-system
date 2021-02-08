@@ -3,5 +3,7 @@
 module.exports = monoDsTokens;
 
 function monoDsTokens() {
-    // TODO
+    return {
+        padding: 10,
+    };
 }
